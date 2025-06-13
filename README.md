@@ -48,10 +48,11 @@
 
 ###
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafly-id&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="100" alt="languages graph" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=rafly-id&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph" />
-</div>
+</p>
 
 ###
 
