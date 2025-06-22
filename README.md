@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">🎓 Studying: Informatics at UTDI<br><br>🔭 Currently working on: Web Development projects<br><br>🌱 Exploring: React, Tailwind CSS, Node.js, <br><br>💬 Ask me about: coding, software projects, or anything tech-related!<br><br>📫 Reach me: muhr0417@gmail.com</h6>
+<h6 align="left">🎓 Studying: Informatics at UTDI<br><br>🔭 Currently working on: Web Development projects<br><br>🌱 Exploring: React, Tailwind CSS, GSAP <br><br>💬 Ask me about: coding, software projects, or anything tech-related!<br><br>📫 Reach me: muhr0417@gmail.com</h6>
 
 ###
 
