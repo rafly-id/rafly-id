@@ -1,71 +1,58 @@
-<h1 align="left">👋 Welcome to My GitHub!</h1>
+# 👋 Welcome to My GitHub!
 
-###
+## About Me
+Halo! Saya **Muhammad Rafly Adriansyah**, mahasiswa Ilmu Komputer di Universitas Teknologi Digital Indonesia (UTDI).  
+Saya suka belajar, membangun, dan membagikan proyek di dunia pengembangan perangkat lunak dan teknologi.
 
-<h6 align="left">Hi there! I'm Muhammad Rafly Adriansyah, a computer science student at Universitas Teknologi Digital Indonesia (UTDI).<br>I’m passionate about learning, building, and sharing projects in the world of software development and technology.</h6>
+## 🎓 Education
+- **Program Studi:** Informatika, UTDI
 
-###
+## 🔭 Currently Working On
+- Berbagai proyek _Web Development_ menggunakan React.js dan Tailwind CSS
 
-<h6 align="left">🎓 Studying: Informatics at UTDI<br><br>🔭 Currently working on: Web Development projects<br><br>🌱 Exploring: React, Tailwind CSS, GSAP <br><br>💬 Ask me about: coding, software projects, or anything tech-related!<br><br>📫 Reach me: muhr0417@gmail.com</h6>
+## 🌱 Learning
+- React  
+- Tailwind CSS  
+- GSAP  
 
-###
+## 💬 Ask Me About
+- Coding  
+- Software projects  
+- Teknologi terbaru  
 
-<h6 align="left">Thanks for stopping by — feel free to explore my repos and connect! 🚀</h6>
+## 📫 Contact
+- Email: [muhr0417@gmail.com](mailto:muhr0417@gmail.com)  
+- LinkedIn: [rafly-adriansyah-35587225b](https://www.linkedin.com/in/rafly-adriansyah-35587225b/)  
+- Instagram: [__rafllyy](https://www.instagram.com/__rafllyy/)
 
-###
+---
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-</div>
-
-###
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafly-id&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="100" alt="languages graph" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=rafly-id&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat-square" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&style=flat-square" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square" alt="Git" />
 </p>
 
-###
+---
 
-<div align="center">
-  <a href="mailto:muhr0417@gmail.com?subject=Inquiry%20from%20GitHub&body=Hi%20Rafly%2C%0D%0A%0D%0AMy%20name%20is%20%5BYour%20Name%5D%2C%20and%20I%20found%20your%20GitHub%20profile%20while%20exploring%20projects%20related%20to%20%5Bmention%20the%20topic%2Fproject%5D.%0D%0A%0D%0AI%E2%80%99m%20reaching%20out%20because%20%5Bbrief%20reason%20%E2%80%94%20e.g.%2C%20I'm%20interested%20in%20collaborating%2C%20I%20have%20a%20question%20about%20your%20project%2C%20etc.%5D.%20%20%0D%0AIf%20you%E2%80%99re%20available%2C%20I%E2%80%99d%20love%20to%20connect%20and%20discuss%20further.%0D%0A%0D%0ALooking%20forward%20to%20your%20response!%0D%0A%0D%0ABest%20regards%2C%20%20%0D%0A%5BYour%20Full%20Name%5D%20%20%0D%0A%5BYour%20Contact%20Info%20or%20GitHub%20Profile%5D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rafly-adriansyah-35587225b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/__rafllyy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="40" alt="instagram logo"  />
-  </a>
-</div>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafly-id&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafly-id&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+</p>
+
+---
+
+> 🚀 Jika tertarik berkolaborasi atau ada yang ingin ditanyakan, jangan ragu hubungi saya melalui email atau LinkedIn!
