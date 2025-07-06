@@ -10,20 +10,22 @@ Seorang pengembang web yang fokus pada antarmuka dinamis dan interaktif 🎯.
     <a href="mailto:muhr0417@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-muhr0417-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 
 ## ⚡️ Beberapa fakta singkat
-<ul>
-    <li>🔭 Saat ini saya fokus pada perkuliahan dan pengembangan proyek pribadi.</li>
-    <li>👨‍💻 Sebagian besar proyek saya tersedia di <a href="https://github.com/rafly-id">Github</a>.</li>
-    <li>💬 Saya suka menghabiskan waktu dengan membuat antarmuka web yang menarik dan bermanfaat.</li>
-    <li>🔎 Mendalami tentang <b>animasi web</b> menggunakan GSAP dan <b>manajemen state</b> pada React.</li>
-</ul>
+<div display="flex">
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="500" />
+<div>
+    <p>🔭 Saat ini saya fokus pada perkuliahan dan pengembangan proyek pribadi.</p>
+    <p>👨‍💻 Sebagian besar proyek saya tersedia di <a href="https://github.com/rafly-id">Github</a>.</p>
+    <p>💬 Saya suka menghabiskan waktu dengan membuat antarmuka web yang menarik dan bermanfaat.</p>
+    <p>🔎 Mendalami tentang <b>animasi web</b> menggunakan GSAP dan <b>manajemen state</b> pada React.</p>
+</div>
+</div>
 
 ### 🛠️ Bahasa dan Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![div3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
