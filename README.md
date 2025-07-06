@@ -1,58 +1,43 @@
-# 👋 Welcome to My GitHub!
-
-## About Me
-Halo! Saya **Muhammad Rafly Adriansyah**, mahasiswa Ilmu Komputer di Universitas Teknologi Digital Indonesia (UTDI).  
-Saya suka belajar, membangun, dan membagikan proyek di dunia pengembangan perangkat lunak dan teknologi.
-
-## 🎓 Education
-- **Program Studi:** Informatika, UTDI
-
-## 🔭 Currently Working On
-- Berbagai proyek _Web Development_ menggunakan React.js dan Tailwind CSS
-
-## 🌱 Learning
-- React  
-- Tailwind CSS  
-- GSAP  
-
-## 💬 Ask Me About
-- Coding  
-- Software projects  
-- Teknologi terbaru  
-
-## 📫 Contact
-- Email: [muhr0417@gmail.com](mailto:muhr0417@gmail.com)  
-- LinkedIn: [rafly-adriansyah-35587225b](https://www.linkedin.com/in/rafly-adriansyah-35587225b/)  
-- Instagram: [__rafllyy](https://www.instagram.com/__rafllyy/)
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat-square" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&style=flat-square" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat-square" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&style=flat-square" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square" alt="Git" />
+# Hey 👋, I'm <a href="https://github.com/rafly-id">Muhammad Rafly Adriansyah</a>
+<p>
+Saat ini saya adalah mahasiswa Sarjana Informatika di Universitas Teknologi Digital Indonesia (UTDI).<br>
+Seorang pengembang web yang fokus pada antarmuka dinamis dan interaktif 🎯.
+</p>
+<p>
+    <a href="https://github.com/rafly-id" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@rafly--id-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"></a>
+    <a href="https://www.linkedin.com/in/rafly-adriansyah-35587225b/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Rafly%20Adriansyah-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn Badge"></a>
+    <a href="https://www.instagram.com/__rafllyy/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@__rafllyy-purple?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+    <a href="mailto:muhr0417@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-muhr0417-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
----
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
+
+## ⚡️ Beberapa fakta singkat
+<ul>
+    <li>🔭 Saat ini saya fokus pada perkuliahan dan pengembangan proyek pribadi.</li>
+    <li>👨‍💻 Sebagian besar proyek saya tersedia di <a href="https://github.com/rafly-id">Github</a>.</li>
+    <li>💬 Saya suka menghabiskan waktu dengan membuat antarmuka web yang menarik dan bermanfaat.</li>
+    <li>🔎 Mendalami tentang <b>animasi web</b> menggunakan GSAP dan <b>manajemen state</b> pada React.</li>
+</ul>
+
+### 🛠️ Bahasa dan Tools:
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafly-id&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rafly-id&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafly-id&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafly-id&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
 </p>
-
----
-
-> 🚀 Jika tertarik berkolaborasi atau ada yang ingin ditanyakan, jangan ragu hubungi saya melalui email atau LinkedIn!
