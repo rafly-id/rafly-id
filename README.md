@@ -13,7 +13,7 @@ Seorang pengembang web yang fokus pada antarmuka dinamis dan interaktif 🎯.
 
 ## ⚡️ Beberapa fakta singkat
 <div display="flex">
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="500" />
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="400" />
 <div>
     <p>🔭 Saat ini saya fokus pada perkuliahan dan pengembangan proyek pribadi.</p>
     <p>👨‍💻 Sebagian besar proyek saya tersedia di <a href="https://github.com/rafly-id">Github</a>.</p>
