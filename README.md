@@ -1,4 +1,10 @@
 # Hey 👋, I'm <a href="https://github.com/rafly-id">Muhammad Rafly Adriansyah</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rafly-id&color=blue&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rafly-id?label=Followers&style=flat&color=purple" alt="GitHub followers" />
+</p>
+
 <p>
 Saat ini saya adalah mahasiswa Sarjana Informatika di Universitas Teknologi Digital Indonesia (UTDI).<br>
 Seorang pengembang web yang fokus pada antarmuka dinamis dan interaktif 🎯.
