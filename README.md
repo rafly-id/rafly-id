@@ -24,7 +24,7 @@ Seorang pengembang web yang fokus pada antarmuka dinamis dan interaktif 🎯.
     <p>🔭 Saat ini saya fokus pada perkuliahan dan pengembangan proyek pribadi.</p>
     <p>👨‍💻 Sebagian besar proyek saya tersedia di <a href="https://github.com/rafly-id">Github</a>.</p>
     <p>💬 Saya suka menghabiskan waktu dengan membuat antarmuka web yang menarik dan bermanfaat.</p>
-    <p>🔎 Mendalami tentang <b>animasi web</b> menggunakan GSAP dan <b>manajemen state</b> pada React.</p>
+    <p>🔎 Mendalami tentang <b>animasi web</b></p>
 </div>
 </div>
 
