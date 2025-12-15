@@ -25,6 +25,7 @@ Seorang pengembang web yang fokus pada antarmuka dinamis dan interaktif 🎯.
     <p>👨‍💻 Sebagian besar proyek saya tersedia di <a href="https://github.com/rafly-id">Github</a>.</p>
     <p>💬 Saya suka menghabiskan waktu dengan membuat antarmuka web yang menarik dan bermanfaat.</p>
     <p>🔎 Mendalami tentang <b>animasi web</b></p>
+    <p>Personal Portofolio Saya : <a href="https://rafly-id.vercel.app/" target="_blank" rel="noreferrer">Personal Portofolio.</a></p>
 </div>
 </div>
 
@@ -34,13 +35,15 @@ Seorang pengembang web yang fokus pada antarmuka dinamis dan interaktif 🎯.
 ![div3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Bun](https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
