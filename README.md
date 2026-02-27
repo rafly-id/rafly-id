@@ -49,6 +49,6 @@ Seorang pengembang web yang fokus pada antarmuka dinamis dan interaktif 🎯.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafly-id&layout=compact&langs_count=5&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rafly-id&show_icons=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafly-id&layout=compact&langs_count=5&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rafly-id&show_icons=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
 </p>
