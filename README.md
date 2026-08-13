@@ -19,7 +19,7 @@
     <a href="mailto:muhr0417@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-muhr0417-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
-# Bahasa dan Tools:
+# Language dan Tools:
 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
