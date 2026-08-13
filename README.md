@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/rafly-id?label=Followers&style=flat&color=purple" alt="GitHub followers" />
 </p>
 
-# Who Am I? :man_technologist:
+# Who Am I?
 
 - **Name**: Muhammad Rafly Adriansyah
 - **Role**: Informatics Student at UTDI & Web Developer
@@ -19,7 +19,7 @@
     <a href="mailto:muhr0417@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-muhr0417-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
-### 🛠️ Bahasa dan Tools:
+# Bahasa dan Tools:
 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
 </p>
 
-## 📊 GitHub Stats
+# GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafly-id&layout=compact&langs_count=5&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rafly-id&show_icons=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
